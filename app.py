@@ -88,8 +88,8 @@ with tab3:
     col1, col2 = st.columns(2)
     
     with col1:
-        tiktok_input = st.number_input("📱 TikTok (min/day)", min_value=0, max_value=500, value=120, help="Average minutes spent on TikTok per day")
-        instagram_input = st.number_input("📸 Instagram (min/day)", min_value=0, max_value=500, value=90, help="Average minutes spent on Instagram per day")
+        tiktok_input = st.number_input("TikTok (min/day)", min_value=0, max_value=500, value=120, help="Average minutes spent on TikTok per day")
+        instagram_input = st.number_input("Instagram (min/day)", min_value=0, max_value=500, value=90, help="Average minutes spent on Instagram per day")
     
     with col2:
         sleep_input = st.number_input("Sleep (hours/day)", min_value=0.0, max_value=24.0, value=7.0, help="Average hours of sleep per night")
