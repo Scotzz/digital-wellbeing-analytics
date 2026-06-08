@@ -13,6 +13,8 @@ The interactive dashboard allows users to:
 - View correlations between social media use and mental health
 - Predict personal addiction risk based on daily habits
 
+[**Digital Wellbeing Analytics**](https://digital-wellbeing-analytics.streamlit.app)
+> The dashboard allows you to filter data by country and year, explore trends in screen time, sleep, and addiction, view correlation matrices, and predict your own addiction risk level based on daily social media habits.
 ---
 
 ## 📊 Data Source
