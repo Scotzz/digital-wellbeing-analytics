@@ -65,3 +65,6 @@ pip install -r requirements.txt
 
 # Run dashboard
 streamlit run app.py
+```
+[![EN](https://img.shields.io/badge/English-blue)](./README.md)
+[![RU](https://img.shields.io/badge/Русский-red)](./README.ru.md)
