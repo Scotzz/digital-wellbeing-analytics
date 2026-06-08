@@ -1,7 +1,7 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.so
 
 # Virtual environments
 venv/
@@ -9,33 +9,15 @@ env/
 .venv/
 .env
 
-# IDE settings
+# IDE
 .vscode/
 .idea/
 *.swp
-*.swo
 
-# Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
 *.ipynb
 
-# Model files (large)
-*.pkl
-*.joblib
-
-# Data files (large)
-data/*.csv
-*.csv
-
-# Logs
-*.log
-
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
-
-# Streamlit
-.streamlit/secrets.toml
-
-# Local configuration
-config.local.py
